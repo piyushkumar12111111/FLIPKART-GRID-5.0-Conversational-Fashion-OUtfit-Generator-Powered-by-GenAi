@@ -64,6 +64,6 @@ This project is licensed under the Flipkart grid 5.0. Feel free to use and modif
 
 ---
 
-Experience the future of fashion with the Conversational Fashion Outfit Generator. For any questions or inquiries, please contact us at [your@email.com](mailto:your@email.com).
+Experience the future of fashion with the Conversational Fashion Outfit Generator. For any questions or inquiries, please contact us at [your@email.com](mailto:highinskypiyushkumar@email.com).
 
 
